@@ -6,7 +6,7 @@
 - [ ] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
 - [ ] [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-## Mathematics
+## Mathematics for Machine Learning
 
 - [ ] [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [Essence of calculus by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
