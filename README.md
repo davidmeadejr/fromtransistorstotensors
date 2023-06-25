@@ -2,7 +2,7 @@
 
 ## Python
 
-- [ ] [Python Fundamentals]([link](https://www.kaggle.com/learn/python))
+- [ ] [Python Fundamentals][link](https://www.kaggle.com/learn/python)
 - [ ] [Data Visualisation](link)
 - [ ] [Intro to Machine Learning](link)
 
