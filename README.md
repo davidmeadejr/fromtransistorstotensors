@@ -1,4 +1,4 @@
-# Curriculum
+# Core
 
 ## Python
 
