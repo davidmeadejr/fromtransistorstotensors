@@ -13,7 +13,7 @@
 - [ ] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [Statistics Fundamentals by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
-## Kaggle
+## Kaggle Competitions
 
 - [X] [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 - [ ] [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
