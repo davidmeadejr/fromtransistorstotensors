@@ -15,7 +15,7 @@
 
 ## Kaggle
 
-- [ ] [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+- [X] [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 - [ ] [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 - [ ] [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 - [ ] [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
