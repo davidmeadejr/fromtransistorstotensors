@@ -39,3 +39,15 @@
    
   - ### Advanced Math
     - [ ] [Probability](https://projects.iq.harvard.edu/stat110/youtube)
+  
+  - ### Machine Learning Specialization
+      - [ ] [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+   
+    - ### Deep Learning Specialization
+      - [ ] [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
+     
+    - ### Natural Language Processing Specialization
+        - [ ][Natural Language Processing Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
+     
+    - ### Machine Learning Engineering for Production (MLOps) Specialization
+        - [ ][Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)
