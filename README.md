@@ -28,4 +28,4 @@
 
 - [ ] [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-# Mathematics for Computer Science
+  - # Mathematics for Computer Science
