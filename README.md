@@ -4,7 +4,7 @@
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
 - [ ] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
-- [ ] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [X] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ## Mathematics for Machine Learning
 
@@ -16,7 +16,7 @@
 ## Kaggle Competitions
 
 - [X] [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
-- [ ] [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+- [X] [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 - [ ] [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 - [ ] [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
 
@@ -27,3 +27,5 @@
 ## Optional
 
 - [ ] [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+# Mathematics for Computer Science
