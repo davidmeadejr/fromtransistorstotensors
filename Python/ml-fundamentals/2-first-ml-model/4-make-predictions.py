@@ -5,4 +5,4 @@ print(predictions)
 # for those same homes. Anything surprising?
 
 print(iowa_model.predict(X.head()))
-print(y.head())
+print(y.head().tolist())
