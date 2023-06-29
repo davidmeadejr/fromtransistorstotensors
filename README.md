@@ -30,7 +30,7 @@
 
   - [ ] [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-- ### Core Math
+- ### Core Mathematics for Computer Science
 
   - [ ] [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
   - [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
@@ -38,7 +38,7 @@
   - [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/download/)
   - [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 
-- ### Advanced Math
+- ### Advanced Mathematics for Computer Science
 
   - [ ] [Probability](https://projects.iq.harvard.edu/stat110/youtube)
   
