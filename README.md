@@ -3,7 +3,7 @@
 ## Python
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
-- [ ] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
+- [X] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
 - [X] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 ## Mathematics for Machine Learning
