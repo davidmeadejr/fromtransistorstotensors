@@ -35,7 +35,8 @@
    - [ ] [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/youtube)
  
 ## Computer Networking
-
+- [ ] [Nand2Tetris Part I](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Nand2Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 - [ ] [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 
