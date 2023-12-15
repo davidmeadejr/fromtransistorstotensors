@@ -26,10 +26,14 @@
 - ### Probability
 
    - [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
+   - [ ] [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/youtube)
+ 
+## Computer Networking
+
+- [ ] [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 
-- [ ] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [ ] [Statistics Fundamentals by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+<!--- ## Optional
 
 ## Kaggle Competitions
 
@@ -39,19 +43,14 @@
 - [ ] [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
 
 ## Generative AI
-
 - [ ] [Generative AI by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-
-## Optional
+- [ ] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [ ] [Statistics Fundamentals by StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 - ### Prompt Engineering
 
   - [ ] [Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-
-- ### Advanced Mathematics for Computer Science
-
-  - [ ] [Probability](https://projects.iq.harvard.edu/stat110/youtube)
   
 - ### Machine Learning Specialization
 
