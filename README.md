@@ -1,5 +1,3 @@
-# Core
-
 ## Python
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
