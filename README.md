@@ -4,9 +4,14 @@
 - [ ] [Replit's 100 Days of Code (Python)](https://replit.com/learn/100-days-of-python)
 - [X] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
 - [X] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [ ] [PyTorch]
-- [ ] [matplotlib]
-- [ ] [pandas]
+- [ ] [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [ ] [matplotlib](https://matplotlib.org/stable/tutorials/index)
+- [ ] [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
+- [ ] [FastApi](https://fastapi.tiangolo.com/learn/)
+
+## Containerisation
+
+- [ ] [Docker](https://docs.docker.com/get-started/overview/)
 
 ## Mathematics for Computer Science
 
