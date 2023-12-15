@@ -3,6 +3,7 @@
 ## Python
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
+- [ ] [Replit's 100 Days of Code (Python)](https://replit.com/learn/100-days-of-python)
 - [X] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
 - [X] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
 
