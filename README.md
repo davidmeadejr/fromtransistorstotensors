@@ -35,10 +35,15 @@
    - [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
    - [ ] [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/youtube)
  
-## Computer Networking
+## Core Systems
 - [ ] [Nand2Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Nand2Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 - [ ] [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+
+## Advanced Systems
+- [ ] [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016/block-v1:MITx+6.004.1x_3+3T2016+type@sequential+block@c1s1/block-v1:MITx+6.004.1x_3+3T2016+type@vertical+block@c1s1v1)
+- [ ] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015/home)
+- [ ] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017/home)
 
 
 <!--- ## Optional
