@@ -2,17 +2,14 @@
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
 - [ ] [Replit's 100 Days of Code (Python)](https://replit.com/learn/100-days-of-python)
-- [ ] [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [X] [Data Visualisation](https://www.kaggle.com/learn/data-visualization)
 - [X] [ML Fundamentals](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [ ] [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [ ] [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - [ ] [matplotlib](https://matplotlib.org/stable/tutorials/index)
 - [ ] [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
 - [ ] [FastApi](https://fastapi.tiangolo.com/learn/)
 
-## Containerisation
-
-- [ ] [Docker](https://docs.docker.com/get-started/overview/)
 
 ## Mathematics for Computer Science
 
@@ -35,6 +32,10 @@
    - [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data)
    - [ ] [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/youtube)
  
+## Containerisation
+
+- [ ] [Docker](https://docs.docker.com/get-started/overview/)
+      
 ## Core Systems
 - [ ] [Nand2Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Nand2Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
