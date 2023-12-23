@@ -53,9 +53,11 @@
 - [ ] **How to Win a Data Science Competition: Learn from Top Kagglers by Coursera**
     - [See course materials](https://www.coursera.org/projects/ml-basics-kaggle-competition) (free online course)\
      
-## **Project Based**
+## **Projects**
 - [ ] Win Kaggle Competitions
 - [ ] Implement ML Papers
+- [ ] Contribute to Open-Source Projects
+- [ ] Build Side-Projects
 
 <!-- ## Python
 
