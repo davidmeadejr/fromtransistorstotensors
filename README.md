@@ -1,4 +1,4 @@
-ML + Engineering Fundamentals
+## ML + Engineering Fundamentals
 
 - [ ] **Introduction to Statistics by Stanford (Coursera)**
   - [See course materials](https://www.coursera.org/learn/stanford-statistics) (free online course)
