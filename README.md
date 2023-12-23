@@ -51,7 +51,11 @@
   - [See lecture videos](https://course.fullstackdeeplearning.com/)
 
 - [ ] **How to Win a Data Science Competition: Learn from Top Kagglers by Coursera**
-    - [See course materials](https://www.coursera.org/projects/ml-basics-kaggle-competition) (free online course)
+    - [See course materials](https://www.coursera.org/projects/ml-basics-kaggle-competition) (free online course)\
+     
+## **Project Based**
+- [ ] Win Kaggle Competitions
+- [ ] Implement ML Papers
 
 <!-- ## Python
 
