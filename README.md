@@ -5,8 +5,8 @@
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Data Structures and Algorithms
-- [Algorithms and Data  Structures for Begineers](https://neetcode.io/courses/dsa-for-beginners/2)
-- [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/1)
+- [ ] [Algorithms and Data  Structures for Begineers](https://neetcode.io/courses/dsa-for-beginners/2)
+- [ ] [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/1)
   
 <!-- ## Prerequisite Math for ML
 - [ ] Linear Algebra
