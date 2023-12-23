@@ -7,13 +7,13 @@
 ## Data Structures and Algorithms
 - [ ]
   
-## Prerequisite Math for ML
+<!-- ## Prerequisite Math for ML
 - [ ] Linear Algebra
 - [ ] Analytic Geometry
 - [ ] Matrix Decompositions
 - [ ] Vector Calculus
 - [ ] Probability and Distributions
-- [ ] Continuous Optimisation
+- [ ] Continuous Optimisation -->
 
 ## ML + Engineering Fundamentals
 
