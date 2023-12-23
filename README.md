@@ -4,6 +4,10 @@
 - [ ] [5 Tips to Boos Your Learning](https://gordicaleksa.medium.com/5-tips-to-boost-your-learning-d6eb5edfe6d)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
+
+## Prerequisite Math for ML
+- [ ]
+
 ## ML + Engineering Fundamentals
 
 - [ ] **Introduction to Statistics by Stanford (Coursera)**
