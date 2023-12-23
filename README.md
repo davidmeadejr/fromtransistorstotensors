@@ -5,7 +5,8 @@
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## Data Structures and Algorithms
-- [ ]
+- [Algorithms and Data  Structures for Begineers](https://neetcode.io/courses/dsa-for-beginners/2)
+- [Advanced Algorithms](https://neetcode.io/courses/advanced-algorithms/1)
   
 <!-- ## Prerequisite Math for ML
 - [ ] Linear Algebra
@@ -52,7 +53,7 @@
 - [ ] **How to Win a Data Science Competition: Learn from Top Kagglers by Coursera**
     - [See course materials](https://www.coursera.org/projects/ml-basics-kaggle-competition) (free online course)
 
-## Python
+<!-- ## Python
 
 - [X] [Python Fundamentals](https://www.kaggle.com/learn/python)
 - [ ] [Replit's 100 Days of Code (Python)](https://replit.com/learn/100-days-of-python)
@@ -62,7 +63,7 @@
 - [ ] [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - [ ] [matplotlib](https://matplotlib.org/stable/tutorials/index)
 - [ ] [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
-- [ ] [FastApi](https://fastapi.tiangolo.com/learn/)
+- [ ] [FastApi](https://fastapi.tiangolo.com/learn/) -->
 
 <!-- ## Mathematics for Computer Science
 
