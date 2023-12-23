@@ -1,40 +1,38 @@
-# Machine Learning and Data Science Curriculum
+ML + Engineering Fundamentals
 
-## New Courses (Added August 2019)
+- [ ] **Introduction to Statistics by Stanford (Coursera)**
+  - [See course materials](https://www.coursera.org/learn/stanford-statistics) (free online course)
+  - This self-paced course covers basic concepts in probability and statistics spanning over four fundamental aspects of machine learning: exploratory data analysis, producing data, probability, and inference.
 
-1. **Introduction to Statistics by Stanford (Coursera)**
-   - [See course materials](https://www.coursera.org/learn/stanford-statistics) (free online course)
-   - This self-paced course covers basic concepts in probability and statistics spanning over four fundamental aspects of machine learning: exploratory data analysis, producing data, probability, and inference.
+- [ ] **18.06: Linear Algebra by MIT**
+  - Textbook: _Introduction to Linear Algebra_ (5th ed.) by Gilbert Strang
+  - [See course materials](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (videos available)
 
-2. **18.06: Linear Algebra by MIT**
-   - Textbook: _Introduction to Linear Algebra_ (5th ed.) by Gilbert Strang
-   - [See course materials](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) (videos available)
+- [ ] **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**
+  - [See video lectures (2017)](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)
+  - [See course materials](http://cs231n.github.io/)
 
-3. **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**
-   - [See video lectures (2017)](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)
-   - [See course materials](http://cs231n.github.io/)
+- [ ] **Practical Deep Learning for Coders by fast.ai**
+  - [See course materials](https://course.fast.ai/) (free online course)
 
-4. **Practical Deep Learning for Coders by fast.ai**
-   - [See course materials](https://course.fast.ai/) (free online course)
+- [ ] **CS224N: Natural Language Processing with Deep Learning by Stanford**
+  - [See video lectures (2017)](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
+  - [See course materials](http://web.stanford.edu/class/cs224n/syllabus.html)
 
-5. **CS224N: Natural Language Processing with Deep Learning by Stanford**
-   - [See video lectures (2017)](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
-   - [See course materials](http://web.stanford.edu/class/cs224n/syllabus.html)
+- [ ] **Machine Learning by Coursera**
+  - [See course materials](https://www.coursera.org/learn/machine-learning) (free online course)
 
-6. **Machine Learning by Coursera**
-   - [See course materials](https://www.coursera.org/learn/machine-learning) (free online course)
+- [ ] **Probabilistic Graphical Models Specialization by Coursera**
+  - Textbook: _Probabilistic Graphical Models: Principles and Techniques_ by Daphne Koller and Nir Friedman
+  - [See course materials](https://www.coursera.org/specializations/probabilistic-graphical-models) (free online courses)
 
-7. **Probabilistic Graphical Models Specialization by Coursera**
-   - Textbook: _Probabilistic Graphical Models: Principles and Techniques_ by Daphne Koller and Nir Friedman
-   - [See course materials](https://www.coursera.org/specializations/probabilistic-graphical-models) (free online courses)
+- [ ] **Introduction to Reinforcement Learning by DeepMind**
+  - [See lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
-8. **Introduction to Reinforcement Learning by DeepMind**
-   - [See lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [ ] **Full Stack Deep Learning Bootcamp**
+  - [See lecture videos](https://course.fullstackdeeplearning.com/)
 
-9. **Full Stack Deep Learning Bootcamp**
-   - [See lecture videos](https://course.fullstackdeeplearning.com/)
-
-10. **How to Win a Data Science Competition: Learn from Top Kagglers by Coursera**
+- [ ] **How to Win a Data Science Competition: Learn from Top Kagglers by Coursera**
     - [See course materials](https://www.coursera.org/projects/ml-basics-kaggle-competition) (free online course)
 
 ## Python
