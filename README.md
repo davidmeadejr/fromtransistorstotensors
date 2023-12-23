@@ -4,8 +4,16 @@
 - [ ] [5 Tips to Boost Your Learning](https://gordicaleksa.medium.com/5-tips-to-boost-your-learning-d6eb5edfe6d)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-## Prerequisite Math for ML
+## Data Structures and Algorithms
 - [ ]
+  
+## Prerequisite Math for ML
+- [ ] Linear Algebra
+- [ ] Analytic Geometry
+- [ ] Matrix Decompositions
+- [ ] Vector Calculus
+- [ ] Probability and Distributions
+- [ ] Continuous Optimisation
 
 ## ML + Engineering Fundamentals
 
@@ -56,7 +64,7 @@
 - [ ] [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
 - [ ] [FastApi](https://fastapi.tiangolo.com/learn/)
 
-## Mathematics for Computer Science
+<!-- ## Mathematics for Computer Science
 
 - [ ] [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
 - [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
@@ -89,7 +97,7 @@
 
 - [ ] [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016/block-v1:MITx+6.004.1x_3+3T2016+type@sequential+block@c1s1/block-v1:MITx+6.004.1x_3+3T2016+type@vertical+block@c1s1v1)
 - [ ] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015/home)
-- [ ] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017/home)
+- [ ] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017/home) --->
 
 
 
