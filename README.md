@@ -1,4 +1,117 @@
-## From Transistors to Tensors
+# From Transistors to Tensors
+
+*Original course curriculum cc: [Chip Huyen's MLOps Guide](https://huyenchip.com/mlops/).*
+
+A collection of materials from introductory to advanced. This is roughly the path I’d follow if I were to start my MLOps journey again.
+
+## Table of Contents
+- [ML + Engineering Fundamentals](#ml--engineering-fundamentals)
+- [MLOps](#mlops)
+  - [Overview](#overview)
+  - [Intermediate](#intermediate)
+  - [Advanced](#advanced)
+- [Career](#career)
+- [Case Studies](#case-studies)
+- [Bonus](#bonus)
+
+---
+
+## ML + Engineering Fundamentals
+While it’s tempting to want to get straight to ChatGPT, it’s important to have a good grasp of machine learning, deep learning, NLP, and reinforcement learning fundamentals.
+
+- [10 free ML courses](#): make sure to take these classes in order.
+- [Book] *Machine Learning: A Probabilistic Perspective* by Kevin P. Murphy. [PDF link available here](#).
+- [Book] *Information Theory, Inference, and Learning Algorithms* by David MacKay. [Free online version here](#).
+- [Book] *Deep Learning* by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Free online version](#).
+- [Book] *Introduction to Information Retrieval* by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze. Essential for anyone interested in NLP. [Free online version](#).
+- [Book] *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto. Essential for reinforcement learning. [Free online version](#).
+- [Tutorials] OpenAI’s *Spinning up in Deep Reinforcement Learning*: A collection of articles that provide intuition for many RL algorithms.
+- [Video] *Zero to Hero series* by Andrej Karpathy.
+- *Tools and concepts I’d prioritize learning*
+- *A survivor’s guide to AI courses at Stanford (Updated Feb 2020)*
+
+---
+
+## MLOps
+**What’s MLOps?**  
+*Ops* in MLOps comes from *DevOps*, short for *Developments and Operations*. To operationalize something means to bring it into production, including deploying, monitoring, and maintaining it.
+
+Currently, this section contains a lot of my writing, largely because when I started learning about MLOps, resources were scarce. I’ll add more materials soon!
+
+- [Book] *Designing Machine Learning Systems* (O’Reilly, 2022).
+- [Community] Join discussions on our *MLOps Discord server* [15k+ members]. Ask questions and join our monthly talks/discussions!
+
+### Overview
+Overview of ML in production.
+
+- [Video] *Machine learning production myths* (Stanford’s MLSys Seminars)
+- [Lecture note] *Introduction to machine learning in production*
+- *Rules of Machine Learning: Best Practices for ML Engineering* by Martin Zinkevich (2019)
+- *What I learned from looking at 200 machine learning tools* [Jun 2020]
+- *Machine Learning Tools Landscape v2 (+84 new tools)* [Dec 2020]
+- *The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction* by Breck et al., 2017
+- *Building LLM applications for production*
+
+### Intermediate
+Deep dives into different aspects of ML production.
+
+- [Lecture note] *Creating training data: sampling, labeling, handling class imbalance, data augmentation*
+- [Lecture note] *Feature engineering*
+- [Book excerpt] *Data Distribution Shifts and Monitoring*
+- *Instrumentation, Observability & Monitoring of Machine Learning Models* by Josh Wills (2019)
+- *RLHF: Reinforcement Learning from Human Feedback*
+
+### Advanced
+Build the best MLOps platform for your organization!
+
+- *Real-time machine learning: challenges and solutions*
+- [Lecture note] *Data system fundamentals for data scientists*
+- *A friendly introduction to machine learning compilers and optimizers*
+- *Why data scientists shouldn’t need to know Kubernetes*
+- *Self-serve feature platforms: architectures and APIs*
+
+---
+
+## Career
+- [Free book] *Machine Learning Interviews Book*
+- [Twitter thread] *The ML interviews process*
+- *Career advice for recent Computer Science graduates*
+- *Four lessons I learned after my first full-time job after college*
+- *7 reasons not to join a startup and 1 reason to*
+- *Analysis of compensation, level, and experience details of 19k tech workers*
+- *What Glassdoor interview reviews reveal about tech hiring cultures*
+- *What we look for in a resume*
+
+---
+
+## Case Studies
+To get a sense of the challenges of machine learning production, it’s helpful to learn from companies who are doing it.
+
+- *Using Machine Learning to Predict Value of Homes On Airbnb* by Robert Chang, Airbnb Engineering & Data Science (2017).
+- *Using Machine Learning to Improve Streaming Quality at Netflix* by Chaitanya Ekanadham, Netflix Technology Blog (2018).
+- *150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com* by Bernardi et al., KDD (2019).
+- *Machine Learning-Powered Search Ranking of Airbnb Experiences* by Mihajlo Grbovic, Airbnb Engineering & Data Science (2019).
+- *From shallow to deep learning in fraud* by Hao Yi Ong, Lyft Engineering (2018).
+- *Space, Time and Groceries* by Jeremy Stanley, Tech at Instacart (2017).
+- *Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning* by Brad Neuberg, Dropbox Engineering (2017).
+- *Scaling Machine Learning at Uber with Michelangelo* by Jeremy Hermann and Mike Del Balso, Uber Engineering (2019).
+- *How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach* by Gabriel Aldamiz, HackerNoon (2018).
+
+---
+
+## Bonus
+Some stuff I did that doesn’t quite fit into any section above, but I want to share anyway :P
+
+- [Code] *Python-is-cool*: Cool Python features that I used to be too afraid to use.
+- [Code] *just-pandas-things*: Pandas quirks that used to traumatize me.
+- [Code] *Coding exercises and solutions for coding interviews*.
+- [Video] *Switching From a Batch to Streaming Mindset w/ Chip Huyen*.
+- [VentureBeat] *4 AI and ML job hunting tips from Chip Huyen*.
+- [Booklet] *Machine learning systems design (2019)*: My initial notes on ML systems, inspiring the book *Designing Machine Learning Systems* (2022).
+
+
+
+<!--- ## From Transistors to Tensors
 
 ## How to Learn
 - [ ] [5 Tips to Boost Your Learning](https://gordicaleksa.medium.com/5-tips-to-boost-your-learning-d6eb5edfe6d)
@@ -14,7 +127,7 @@
 - [ ] Matrix Decompositions
 - [ ] Vector Calculus
 - [ ] Probability and Distributions
-- [ ] Continuous Optimisation -->
+- [ ] Continuous Optimisation 
 
 ## ML + Engineering Fundamentals
 
@@ -57,7 +170,7 @@
 - [ ] Win Kaggle Competitions
 - [ ] Implement ML Papers
 - [ ] Contribute to Open-Source Projects
-- [ ] Build Side-Projects
+- [ ] Build Side-Projects 
 
 <!-- ## Python
 
